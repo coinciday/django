@@ -4,4 +4,3 @@ psycopg2-binary
 whitenoise
 dj-database-url
 datetime
-django.http
